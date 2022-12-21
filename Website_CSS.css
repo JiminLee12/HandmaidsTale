@@ -1,0 +1,29 @@
+
+body{
+	font-family: 'Overpass', sans-serif;
+}
+
+.headingText{
+	color:#5E99C4;
+	font-size: 30px
+}
+
+.Title{
+	color:#5E99C4;
+	font-size: 45px
+	font-weight: bold;
+}
+
+.row{
+	width:100%;
+}
+
+.marginCenter{
+	margin-left:150px;
+	margin-right:150px;
+}
+
+.no_bullets{
+	list-style-type:none;
+}
+

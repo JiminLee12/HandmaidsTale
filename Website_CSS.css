@@ -19,8 +19,8 @@ body{
 }
 
 .marginCenter{
-	margin-left:150px;
-	margin-right:150px;
+	margin-left:75px;
+	margin-right:75px;
 }
 
 .no_bullets{
@@ -31,4 +31,20 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
+
+.navbar{
+	background-color: #DA5345;
+	padding: 8px 30px;
+	margin-bottom: 50px
+}
+
+.navbar a{
+	padding: 8px 30px;
+	text-decoration: none;
+	color:white;
+	font-size:20px;
+}
+
+.navbar a:hover{
+	background-color: #C72828
 
